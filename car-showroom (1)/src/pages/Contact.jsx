@@ -78,7 +78,7 @@ export default function Contact() {
             <p className="muted">Open Mon–Sat, 9am – 7pm</p>
             <h3 className="mt-24">Reach us directly</h3>
             <p className="muted">sales@apexmotors.example</p>
-            <p className="muted">+1 (555) 010-2030</p>
+            <p className="muted">+1 9087659999</p>
           </div>
         </div>
       </div>
